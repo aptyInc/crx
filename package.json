@@ -45,5 +45,11 @@
     "github-changes": "1.1.2",
     "nyc": "14.1.1",
     "tape": "4.11.0"
+  },
+  "bugs": {
+    "url": "https://github.com/aptyInc/crx/issues"
+  },
+  "directories": {
+    "test": "test"
   }
 }
