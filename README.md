@@ -26,7 +26,7 @@ Asynchronous functions returns a native ECMAScript Promise.
 const fs = require('fs');
 const path = require('path');
 
-const ChromeExtension = require('@apty-dev/crx');
+const ChromeExtension = require('@apty/crx');
 
 const crx = new ChromeExtension({
   codebase: 'http://localhost:8000/myFirstExtension.crx',
